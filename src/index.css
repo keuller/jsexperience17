@@ -1,0 +1,15 @@
+body { padding:0; margin:0; }
+a.button, button.button { margin-right: 4px; }
+
+.section { padding: 1rem 1rem !important; }
+.app-title, .appbar { font-size: 16pt; font-weight: bold; }
+.appbar { background-color: #002 !important; color: white; min-height: 52px; padding: 5px 10px 5px 10px; }
+.app-logo, .js-logo, .app-title { display: static; float: left; color: #fff; }
+.app-title {  float: right !important; padding-top:10px; }
+.app-logo { margin-left: 5px; padding-top:10px; }
+.js-logo { background-color: yellow; color: black; margin-left: 10px; padding-left: 10px; padding-top:10px; width: 35px; }
+.text-yellow { color: yellow }
+.simple-txt { font-size: 11pt; }
+.counter-label { display:inline-block; box-sizing: border-box ; font-size:1.6em; font-weight: bold; width: 40px; text-align:center; }
+.positive { color:darkgreen; }
+.negative { color:darkred; }
